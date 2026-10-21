@@ -4,8 +4,5 @@
 
 ## Anime Blog
 
-![Anime Blog]
-
 ## Yacht Club Landing
 
-![Yacht Club Landing]
