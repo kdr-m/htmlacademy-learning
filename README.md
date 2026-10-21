@@ -4,8 +4,8 @@
 
 ## Anime Blog
 
-![Anime Blog](./anime-blog/screenshots/desktop.png)
+![Anime Blog]
 
 ## Yacht Club Landing
 
-![Yacht Club Landing](./yacht-club-landing/screenshots/desktop_light.png) (./yacht-club-landing/screenshots/desktop_dark.png)
+![Yacht Club Landing]
